@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormBT1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT4_Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT4_Display.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FormBT5_BT6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT7_AddFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT7_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT7_DisplayFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT7_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBT7_SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
